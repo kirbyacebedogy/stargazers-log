@@ -1,0 +1,40 @@
+{
+  "repositories": [
+    {
+      "name": "astro",
+      "owner": "withastro",
+      "description": "The web framework for building content-driven websites.",
+      "language": "TypeScript",
+      "stars": 52000,
+      "url": "https://github.com/withastro/astro",
+      "starredOn": "2026-09-18"
+    },
+    {
+      "name": "htmx",
+      "owner": "bigskysoftware",
+      "description": "Access the modern browser features directly from HTML.",
+      "language": "JavaScript",
+      "stars": 44000,
+      "url": "https://github.com/bigskysoftware/htmx",
+      "starredOn": "2026-09-11"
+    },
+    {
+      "name": "ripgrep",
+      "owner": "BurntSushi",
+      "description": "A fast command line search tool that respects your gitignore.",
+      "language": "Rust",
+      "stars": 52000,
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "starredOn": "2026-08-29"
+    },
+    {
+      "name": "sqlite",
+      "owner": "sqlite",
+      "description": "A small, fast, self-contained SQL database engine.",
+      "language": "C",
+      "stars": 11000,
+      "url": "https://github.com/sqlite/sqlite",
+      "starredOn": "2026-08-14"
+    }
+  ]
+}
